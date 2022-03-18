@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1.hellow_world.cs" />
+    <Compile Include="3.Conructor.cs" />
     <Compile Include="method.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
