@@ -47,6 +47,7 @@
     <Compile Include="3.Conructor.cs" />
     <Compile Include="3.1Conructor.cs" />
     <Compile Include="3.2contructor.eg.cs" />
+    <Compile Include="4.Array.cs" />
     <Compile Include="method.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
