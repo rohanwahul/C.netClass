@@ -47,8 +47,13 @@
     <Compile Include="3.Conructor.cs" />
     <Compile Include="3.1Conructor.cs" />
     <Compile Include="3.2contructor.eg.cs" />
+    <Compile Include="4.1Array.cs" />
     <Compile Include="4.Array.cs" />
-    <Compile Include="method.cs" />
+    <Compile Include="5NonGeneric.cs" />
+    <Compile Include="6.Generic.cs" />
+    <Compile Include="2method.cs" />
+    <Compile Include="7Generic_Class.cs" />
+    <Compile Include="8.GenericMethodClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
