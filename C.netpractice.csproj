@@ -57,6 +57,7 @@
     <Compile Include="8.GenericMethodClass.cs" />
     <Compile Include="9.outKeyword.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thread.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
